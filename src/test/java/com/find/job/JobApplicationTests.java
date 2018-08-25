@@ -1,4 +1,4 @@
-package com.example.job;
+package com.find.job;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
